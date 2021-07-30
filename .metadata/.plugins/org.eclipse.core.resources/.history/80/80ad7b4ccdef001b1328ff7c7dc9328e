@@ -1,0 +1,11 @@
+import java.awt.*;
+import java.awt.geom.*;
+import java.util.*;
+
+
+public interface CompositeShapeInt
+{
+   void add(Shape shape);
+   //Rectangle getBounds();
+   void draw (Graphics2D g);	   
+}

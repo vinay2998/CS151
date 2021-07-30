@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CarShape.java&apos; to &apos;CS151_HW4/src&apos;&#x0D;&#x0A;- Original project: &apos;CS151_HW2&apos;&#x0D;&#x0A;- Destination element: &apos;CS151_HW4/src&apos;&#x0D;&#x0A;- Original element: &apos;CarShape.java&apos;" description="Copy compilation unit" destination="=CS151_HW4/src" element1="/src&lt;{CarShape.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1627491952891" units="1" version="1.0"/>
+</session>
